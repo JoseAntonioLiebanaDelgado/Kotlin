@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <EditText
+        android:id="@+id/productNameEditText"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="16dp"
+        android:layout_marginEnd="16dp"
+        android:layout_marginBottom="16dp"
+        android:inputType="text" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_below="@id/productNameEditText"
+        android:layout_marginTop="8dp"
+        android:layout_marginEnd="16dp">
+
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/addButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_marginTop="51dp"
+        android:layout_marginEnd="0dp"
+        android:text="ADD" />
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/recyclerView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@id/addButton"
+        android:layout_marginTop="16dp"
+        android:padding="16dp"/>
+
+    <Button
+        android:id="@+id/decreaseButton"
+        android:layout_width="60dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="3dp"
+        android:layout_toEndOf="@+id/productNameEditText"
+        android:text="-" />
+
+    <Button
+        android:id="@+id/increaseButton"
+        android:layout_width="59dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="6dp"
+        android:layout_toEndOf="@+id/quantityEditText"
+        android:text="+" />
+
+    <TextView
+        android:id="@+id/quantityEditText"
+        android:layout_width="39dp"
+        android:layout_height="46dp"
+        android:layout_alignBottom="@+id/decreaseButton"
+        android:layout_marginStart="4dp"
+        android:layout_marginBottom="-14dp"
+        android:layout_toEndOf="@+id/decreaseButton"
+        android:layout_weight="1"
+        android:inputType="number"
+        android:text="0"
+        android:textAlignment="center" />
+
+</RelativeLayout>
+
