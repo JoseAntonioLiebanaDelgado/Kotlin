@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Collections</string>
+    <string name="enter_a_number">Enter a number...</string>
+    <string name="add">Add</string>
+</resources>

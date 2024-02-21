@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Fragment_test</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="red_fragment_01">RED Fragment 01</string>
+    <string name="blue_fragment_02">BLUE Fragment 02</string>
+    <string name="text1">Text1</string>
+    <string name="text2">Text2</string>
+    <string name="add">ADD</string>
+</resources>
