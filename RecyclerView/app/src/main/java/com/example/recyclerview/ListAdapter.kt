@@ -16,7 +16,7 @@ class ListAdapter(val items: MutableList<Product>, val context: Context): Recycl
         return ViewHolder(view)
     }
 
-    //On fem les crides i vinvulem la info dels elements amb les vistes
+    //On fem les crides i vinculem la info dels elements amb les vistes
     override fun onBindViewHolder(holder: ViewHolder, position: Int) {
         val intent = Intent(context, ClientView::class.java)
         val item = items[position]
