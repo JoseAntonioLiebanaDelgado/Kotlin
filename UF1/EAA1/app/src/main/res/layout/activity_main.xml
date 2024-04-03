@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!-- Contenedor principal de la interfaz de usuario, usando ConstraintLayout para un diseño flexible y responsivo. -->
 <androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
@@ -6,6 +7,7 @@
     android:layout_height="match_parent"
     tools:context=".MainActivity">
 
+    <!-- Primer campo de texto editable para la entrada del usuario, centrado horizontalmente y con un margen superior. -->
     <EditText
         android:id="@+id/inputText1"
         android:layout_width="wrap_content"
@@ -21,6 +23,7 @@
         app:layout_constraintTop_toTopOf="parent"
         tools:ignore="DuplicateSpeakableTextCheck" />
 
+    <!-- Segundo campo de texto editable, similar al primero pero posicionado debajo de él. -->
     <EditText
         android:id="@+id/inputText2"
         android:layout_width="0dp"
@@ -35,6 +38,7 @@
         app:layout_constraintStart_toStartOf="@+id/inputText1"
         app:layout_constraintTop_toBottomOf="@+id/inputText1" />
 
+    <!-- Botón para iniciar la operación de suma, ubicado debajo del segundo campo de texto. -->
     <Button
         android:id="@+id/buttonSuma"
         android:layout_width="0dp"

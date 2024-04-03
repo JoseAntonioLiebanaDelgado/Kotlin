@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!-- Contenedor principal de la interfaz de usuario para MainActivity2, utilizando ConstraintLayout. -->
 <androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
@@ -6,6 +7,7 @@
     android:layout_height="match_parent"
     tools:context=".MainActivity2">
 
+    <!-- TextView para mostrar el resultado de la suma. Está centrado horizontalmente y colocado en la parte superior del contenedor. -->
     <TextView
         android:id="@+id/textResult"
         android:layout_width="170dp"
@@ -19,6 +21,7 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
+    <!-- Botón para resetear la operación y volver a la pantalla anterior. Está colocado debajo del TextView del resultado. -->
     <Button
         android:id="@+id/buttonReset"
         android:layout_width="0dp"
