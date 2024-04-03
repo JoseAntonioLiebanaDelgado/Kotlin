@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/joseantonioliebanadelgado/.gradle/daemon/8.2/com.example.ejercicio_autoevaluativo.app-mergeDebugResources-30:/layout/activity_main2.xml",
+        "source": "/Users/joseantonioliebanadelgado/.gradle/daemon/8.2/com.example.ejercicio_autoevaluativo.app-main-33:/layout/activity_main2.xml"
+    },
+    {
+        "merged": "com.example.ejercicio_autoevaluativo.app-mergeDebugResources-30:/layout/activity_main.xml",
+        "source": "com.example.ejercicio_autoevaluativo.app-main-33:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/joseantonioliebanadelgado/.gradle/daemon/8.2/com.example.ejercicio_autoevaluativo.app-mergeDebugResources-30:/layout/activity_main.xml",
+        "source": "/Users/joseantonioliebanadelgado/.gradle/daemon/8.2/com.example.ejercicio_autoevaluativo.app-main-33:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/joseantonioliebanadelgado/.gradle/daemon/8.2/com.example.ejercicio_autoevaluativo.app-mergeDebugResources-30:/layout/fragment_hola_mundo.xml",
+        "source": "/Users/joseantonioliebanadelgado/.gradle/daemon/8.2/com.example.ejercicio_autoevaluativo.app-main-33:/layout/fragment_hola_mundo.xml"
+    }
+]

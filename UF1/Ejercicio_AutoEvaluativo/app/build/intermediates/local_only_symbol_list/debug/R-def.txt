@@ -1,0 +1,21 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id buttonReset
+id buttonSuma
+id buttonToast
+id editTextNumberDecimal1
+id editTextNumberDecimal2
+id textViewResult
+layout activity_main
+layout activity_main2
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Base.Theme.Ejercicio_AutoEvaluativo
+style Theme.Ejercicio_AutoEvaluativo
+xml backup_rules
+xml data_extraction_rules
