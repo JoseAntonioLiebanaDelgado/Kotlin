@@ -1,0 +1,126 @@
+[
+    {
+        "merged": "com.example.mangashelfv2.app-merged_res-39:/drawable_appicon.jpeg.flat",
+        "source": "com.example.mangashelfv2.app-main-41:/drawable/appicon.jpeg"
+    },
+    {
+        "merged": "com.example.mangashelfv2.app-merged_res-39:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.mangashelfv2.app-main-41:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.mangashelfv2.app-merged_res-39:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.mangashelfv2.app-main-41:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.mangashelfv2.app-merged_res-39:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.mangashelfv2.app-main-41:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.mangashelfv2.app-merged_res-39:/mipmap-xxxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.example.mangashelfv2.app-main-41:/mipmap-xxxhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.example.mangashelfv2.app-merged_res-39:/mipmap-xhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.example.mangashelfv2.app-main-41:/mipmap-xhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.example.mangashelfv2.app-merged_res-39:/mipmap-xxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.example.mangashelfv2.app-main-41:/mipmap-xxhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.example.mangashelfv2.app-merged_res-39:/drawable_rectangle_outline.xml.flat",
+        "source": "com.example.mangashelfv2.app-main-41:/drawable/rectangle_outline.xml"
+    },
+    {
+        "merged": "com.example.mangashelfv2.app-merged_res-39:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.mangashelfv2.app-main-41:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.mangashelfv2.app-merged_res-39:/layout_activity_manga.xml.flat",
+        "source": "com.example.mangashelfv2.app-main-41:/layout/activity_manga.xml"
+    },
+    {
+        "merged": "com.example.mangashelfv2.app-merged_res-39:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.mangashelfv2.app-main-41:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.mangashelfv2.app-merged_res-39:/mipmap-hdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.example.mangashelfv2.app-main-41:/mipmap-hdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.example.mangashelfv2.app-merged_res-39:/layout_json_layout.xml.flat",
+        "source": "com.example.mangashelfv2.app-main-41:/layout/json_layout.xml"
+    },
+    {
+        "merged": "com.example.mangashelfv2.app-merged_res-39:/mipmap-mdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.example.mangashelfv2.app-main-41:/mipmap-mdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.example.mangashelfv2.app-merged_res-39:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.mangashelfv2.app-main-41:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.mangashelfv2.app-merged_res-39:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.mangashelfv2.app-main-41:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.mangashelfv2.app-merged_res-39:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.mangashelfv2.app-main-41:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.mangashelfv2.app-merged_res-39:/layout_activity_manga_by_id.xml.flat",
+        "source": "com.example.mangashelfv2.app-main-41:/layout/activity_manga_by_id.xml"
+    },
+    {
+        "merged": "com.example.mangashelfv2.app-merged_res-39:/layout_detalle_layout.xml.flat",
+        "source": "com.example.mangashelfv2.app-main-41:/layout/detalle_layout.xml"
+    },
+    {
+        "merged": "com.example.mangashelfv2.app-merged_res-39:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.mangashelfv2.app-main-41:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.mangashelfv2.app-merged_res-39:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.mangashelfv2.app-main-41:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.mangashelfv2.app-merged_res-39:/drawable_baseline_arrow_back_24.xml.flat",
+        "source": "com.example.mangashelfv2.app-main-41:/drawable/baseline_arrow_back_24.xml"
+    },
+    {
+        "merged": "com.example.mangashelfv2.app-merged_res-39:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.mangashelfv2.app-main-41:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.mangashelfv2.app-merged_res-39:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.mangashelfv2.app-main-41:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.mangashelfv2.app-merged_res-39:/layout_detalles_activity.xml.flat",
+        "source": "com.example.mangashelfv2.app-main-41:/layout/detalles_activity.xml"
+    },
+    {
+        "merged": "com.example.mangashelfv2.app-merged_res-39:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.mangashelfv2.app-main-41:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.mangashelfv2.app-merged_res-39:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.example.mangashelfv2.app-main-41:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.mangashelfv2.app-merged_res-39:/drawable_mangashelf_logo.png.flat",
+        "source": "com.example.mangashelfv2.app-main-41:/drawable/mangashelf_logo.png"
+    },
+    {
+        "merged": "com.example.mangashelfv2.app-merged_res-39:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.mangashelfv2.app-main-41:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.mangashelfv2.app-merged_res-39:/xml_backup_rules.xml.flat",
+        "source": "com.example.mangashelfv2.app-main-41:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.mangashelfv2.app-merged_res-39:/drawable_bg_globo.xml.flat",
+        "source": "com.example.mangashelfv2.app-main-41:/drawable/bg_globo.xml"
+    }
+]

@@ -1,0 +1,156 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.mangashelfv2"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="30"
+9        android:targetSdkVersion="33" />
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->/Users/joseantonioliebanadelgado/Documents/Developer/Kotlin/UF1/MangaShelf - JoseAntonioLiebana_AleixRoldan/MangaShelfV2/app/src/main/AndroidManifest.xml:5:5-67
+11-->/Users/joseantonioliebanadelgado/Documents/Developer/Kotlin/UF1/MangaShelf - JoseAntonioLiebana_AleixRoldan/MangaShelfV2/app/src/main/AndroidManifest.xml:5:22-64
+12    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+12-->/Users/joseantonioliebanadelgado/Documents/Developer/Kotlin/UF1/MangaShelf - JoseAntonioLiebana_AleixRoldan/MangaShelfV2/app/src/main/AndroidManifest.xml:6:5-79
+12-->/Users/joseantonioliebanadelgado/Documents/Developer/Kotlin/UF1/MangaShelf - JoseAntonioLiebana_AleixRoldan/MangaShelfV2/app/src/main/AndroidManifest.xml:6:22-76
+13    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+13-->/Users/joseantonioliebanadelgado/Documents/Developer/Kotlin/UF1/MangaShelf - JoseAntonioLiebana_AleixRoldan/MangaShelfV2/app/src/main/AndroidManifest.xml:7:5-76
+13-->/Users/joseantonioliebanadelgado/Documents/Developer/Kotlin/UF1/MangaShelf - JoseAntonioLiebana_AleixRoldan/MangaShelfV2/app/src/main/AndroidManifest.xml:7:22-73
+14
+15    <queries>
+15-->[com.android.car.ui:car-ui-lib:2.5.1] /Users/joseantonioliebanadelgado/.gradle/caches/transforms-3/4b36e0b5102aa552fca090dff4cffa3c/transformed/car-ui-lib-2.5.1/AndroidManifest.xml:23:5-34:15
+16
+17        <!-- Required for querying the IME service at runtime -->
+18        <intent>
+18-->[com.android.car.ui:car-ui-lib:2.5.1] /Users/joseantonioliebanadelgado/.gradle/caches/transforms-3/4b36e0b5102aa552fca090dff4cffa3c/transformed/car-ui-lib-2.5.1/AndroidManifest.xml:26:9-28:18
+19            <action android:name="android.view.InputMethod" />
+19-->[com.android.car.ui:car-ui-lib:2.5.1] /Users/joseantonioliebanadelgado/.gradle/caches/transforms-3/4b36e0b5102aa552fca090dff4cffa3c/transformed/car-ui-lib-2.5.1/AndroidManifest.xml:27:13-63
+19-->[com.android.car.ui:car-ui-lib:2.5.1] /Users/joseantonioliebanadelgado/.gradle/caches/transforms-3/4b36e0b5102aa552fca090dff4cffa3c/transformed/car-ui-lib-2.5.1/AndroidManifest.xml:27:21-60
+20        </intent>
+21        <!-- Required for querying the plugin at runtime -->
+22        <provider
+22-->[com.android.car.ui:car-ui-lib:2.5.1] /Users/joseantonioliebanadelgado/.gradle/caches/transforms-3/4b36e0b5102aa552fca090dff4cffa3c/transformed/car-ui-lib-2.5.1/AndroidManifest.xml:30:9-33:67
+23            android:name="com.android.car.ui.plugin.PluginNameProvider"
+23-->[com.android.car.ui:car-ui-lib:2.5.1] /Users/joseantonioliebanadelgado/.gradle/caches/transforms-3/4b36e0b5102aa552fca090dff4cffa3c/transformed/car-ui-lib-2.5.1/AndroidManifest.xml:31:13-72
+24            android:authorities="com.android.car.ui.plugin" />
+24-->[com.android.car.ui:car-ui-lib:2.5.1] /Users/joseantonioliebanadelgado/.gradle/caches/transforms-3/4b36e0b5102aa552fca090dff4cffa3c/transformed/car-ui-lib-2.5.1/AndroidManifest.xml:32:13-60
+25    </queries>
+26
+27    <permission
+27-->[androidx.core:core:1.9.0] /Users/joseantonioliebanadelgado/.gradle/caches/transforms-3/738147d0f85917708540e295877f94a3/transformed/core-1.9.0/AndroidManifest.xml:22:5-24:47
+28        android:name="com.example.mangashelfv2.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+28-->[androidx.core:core:1.9.0] /Users/joseantonioliebanadelgado/.gradle/caches/transforms-3/738147d0f85917708540e295877f94a3/transformed/core-1.9.0/AndroidManifest.xml:23:9-81
+29        android:protectionLevel="signature" />
+29-->[androidx.core:core:1.9.0] /Users/joseantonioliebanadelgado/.gradle/caches/transforms-3/738147d0f85917708540e295877f94a3/transformed/core-1.9.0/AndroidManifest.xml:24:9-44
+30
+31    <uses-permission android:name="com.example.mangashelfv2.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+31-->[androidx.core:core:1.9.0] /Users/joseantonioliebanadelgado/.gradle/caches/transforms-3/738147d0f85917708540e295877f94a3/transformed/core-1.9.0/AndroidManifest.xml:26:5-97
+31-->[androidx.core:core:1.9.0] /Users/joseantonioliebanadelgado/.gradle/caches/transforms-3/738147d0f85917708540e295877f94a3/transformed/core-1.9.0/AndroidManifest.xml:26:22-94
+32
+33    <application
+33-->/Users/joseantonioliebanadelgado/Documents/Developer/Kotlin/UF1/MangaShelf - JoseAntonioLiebana_AleixRoldan/MangaShelfV2/app/src/main/AndroidManifest.xml:9:5-33:19
+34        android:allowBackup="true"
+34-->/Users/joseantonioliebanadelgado/Documents/Developer/Kotlin/UF1/MangaShelf - JoseAntonioLiebana_AleixRoldan/MangaShelfV2/app/src/main/AndroidManifest.xml:10:9-35
+35        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+35-->[androidx.core:core:1.9.0] /Users/joseantonioliebanadelgado/.gradle/caches/transforms-3/738147d0f85917708540e295877f94a3/transformed/core-1.9.0/AndroidManifest.xml:28:18-86
+36        android:dataExtractionRules="@xml/data_extraction_rules"
+36-->/Users/joseantonioliebanadelgado/Documents/Developer/Kotlin/UF1/MangaShelf - JoseAntonioLiebana_AleixRoldan/MangaShelfV2/app/src/main/AndroidManifest.xml:11:9-65
+37        android:debuggable="true"
+38        android:extractNativeLibs="false"
+39        android:fullBackupContent="@xml/backup_rules"
+39-->/Users/joseantonioliebanadelgado/Documents/Developer/Kotlin/UF1/MangaShelf - JoseAntonioLiebana_AleixRoldan/MangaShelfV2/app/src/main/AndroidManifest.xml:12:9-54
+40        android:icon="@mipmap/ic_launcher"
+40-->/Users/joseantonioliebanadelgado/Documents/Developer/Kotlin/UF1/MangaShelf - JoseAntonioLiebana_AleixRoldan/MangaShelfV2/app/src/main/AndroidManifest.xml:13:9-43
+41        android:label="@string/app_name"
+41-->/Users/joseantonioliebanadelgado/Documents/Developer/Kotlin/UF1/MangaShelf - JoseAntonioLiebana_AleixRoldan/MangaShelfV2/app/src/main/AndroidManifest.xml:14:9-41
+42        android:roundIcon="@mipmap/ic_launcher_round"
+42-->/Users/joseantonioliebanadelgado/Documents/Developer/Kotlin/UF1/MangaShelf - JoseAntonioLiebana_AleixRoldan/MangaShelfV2/app/src/main/AndroidManifest.xml:15:9-54
+43        android:supportsRtl="true"
+43-->/Users/joseantonioliebanadelgado/Documents/Developer/Kotlin/UF1/MangaShelf - JoseAntonioLiebana_AleixRoldan/MangaShelfV2/app/src/main/AndroidManifest.xml:16:9-35
+44        android:testOnly="true"
+45        android:theme="@style/Base.Theme.MangaShelfV2" >
+45-->/Users/joseantonioliebanadelgado/Documents/Developer/Kotlin/UF1/MangaShelf - JoseAntonioLiebana_AleixRoldan/MangaShelfV2/app/src/main/AndroidManifest.xml:17:9-55
+46        <activity
+46-->/Users/joseantonioliebanadelgado/Documents/Developer/Kotlin/UF1/MangaShelf - JoseAntonioLiebana_AleixRoldan/MangaShelfV2/app/src/main/AndroidManifest.xml:20:9-23:56
+47            android:name="com.example.mangashelfv2.GetById.DetallesByIdActivity"
+47-->/Users/joseantonioliebanadelgado/Documents/Developer/Kotlin/UF1/MangaShelf - JoseAntonioLiebana_AleixRoldan/MangaShelfV2/app/src/main/AndroidManifest.xml:21:13-57
+48            android:exported="false"
+48-->/Users/joseantonioliebanadelgado/Documents/Developer/Kotlin/UF1/MangaShelf - JoseAntonioLiebana_AleixRoldan/MangaShelfV2/app/src/main/AndroidManifest.xml:22:13-37
+49            android:theme="@style/Theme.MangaShelfV2" />
+49-->/Users/joseantonioliebanadelgado/Documents/Developer/Kotlin/UF1/MangaShelf - JoseAntonioLiebana_AleixRoldan/MangaShelfV2/app/src/main/AndroidManifest.xml:23:13-54
+50        <activity
+50-->/Users/joseantonioliebanadelgado/Documents/Developer/Kotlin/UF1/MangaShelf - JoseAntonioLiebana_AleixRoldan/MangaShelfV2/app/src/main/AndroidManifest.xml:24:9-32:20
+51            android:name="com.example.mangashelfv2.MainActivity"
+51-->/Users/joseantonioliebanadelgado/Documents/Developer/Kotlin/UF1/MangaShelf - JoseAntonioLiebana_AleixRoldan/MangaShelfV2/app/src/main/AndroidManifest.xml:25:13-41
+52            android:exported="true" >
+52-->/Users/joseantonioliebanadelgado/Documents/Developer/Kotlin/UF1/MangaShelf - JoseAntonioLiebana_AleixRoldan/MangaShelfV2/app/src/main/AndroidManifest.xml:26:13-36
+53            <intent-filter>
+53-->/Users/joseantonioliebanadelgado/Documents/Developer/Kotlin/UF1/MangaShelf - JoseAntonioLiebana_AleixRoldan/MangaShelfV2/app/src/main/AndroidManifest.xml:27:13-31:29
+54                <action android:name="android.intent.action.MAIN" />
+54-->/Users/joseantonioliebanadelgado/Documents/Developer/Kotlin/UF1/MangaShelf - JoseAntonioLiebana_AleixRoldan/MangaShelfV2/app/src/main/AndroidManifest.xml:28:17-69
+54-->/Users/joseantonioliebanadelgado/Documents/Developer/Kotlin/UF1/MangaShelf - JoseAntonioLiebana_AleixRoldan/MangaShelfV2/app/src/main/AndroidManifest.xml:28:25-66
+55
+56                <category android:name="android.intent.category.LAUNCHER" />
+56-->/Users/joseantonioliebanadelgado/Documents/Developer/Kotlin/UF1/MangaShelf - JoseAntonioLiebana_AleixRoldan/MangaShelfV2/app/src/main/AndroidManifest.xml:30:17-77
+56-->/Users/joseantonioliebanadelgado/Documents/Developer/Kotlin/UF1/MangaShelf - JoseAntonioLiebana_AleixRoldan/MangaShelfV2/app/src/main/AndroidManifest.xml:30:27-74
+57            </intent-filter>
+58        </activity>
+59
+60        <provider
+60-->[com.android.car.ui:car-ui-lib:2.5.1] /Users/joseantonioliebanadelgado/.gradle/caches/transforms-3/4b36e0b5102aa552fca090dff4cffa3c/transformed/car-ui-lib-2.5.1/AndroidManifest.xml:37:9-42:71
+61            android:name="com.android.car.ui.core.CarUiInstaller"
+61-->[com.android.car.ui:car-ui-lib:2.5.1] /Users/joseantonioliebanadelgado/.gradle/caches/transforms-3/4b36e0b5102aa552fca090dff4cffa3c/transformed/car-ui-lib-2.5.1/AndroidManifest.xml:38:13-66
+62            android:authorities="com.example.mangashelfv2.CarUiInstaller"
+62-->[com.android.car.ui:car-ui-lib:2.5.1] /Users/joseantonioliebanadelgado/.gradle/caches/transforms-3/4b36e0b5102aa552fca090dff4cffa3c/transformed/car-ui-lib-2.5.1/AndroidManifest.xml:39:13-66
+63            android:directBootAware="true"
+63-->[com.android.car.ui:car-ui-lib:2.5.1] /Users/joseantonioliebanadelgado/.gradle/caches/transforms-3/4b36e0b5102aa552fca090dff4cffa3c/transformed/car-ui-lib-2.5.1/AndroidManifest.xml:40:13-43
+64            android:exported="false"
+64-->[com.android.car.ui:car-ui-lib:2.5.1] /Users/joseantonioliebanadelgado/.gradle/caches/transforms-3/4b36e0b5102aa552fca090dff4cffa3c/transformed/car-ui-lib-2.5.1/AndroidManifest.xml:41:13-37
+65            android:process="@string/car_ui_installer_process_name" />
+65-->[com.android.car.ui:car-ui-lib:2.5.1] /Users/joseantonioliebanadelgado/.gradle/caches/transforms-3/4b36e0b5102aa552fca090dff4cffa3c/transformed/car-ui-lib-2.5.1/AndroidManifest.xml:42:13-68
+66        <provider
+66-->[com.android.car.ui:car-ui-lib:2.5.1] /Users/joseantonioliebanadelgado/.gradle/caches/transforms-3/4b36e0b5102aa552fca090dff4cffa3c/transformed/car-ui-lib-2.5.1/AndroidManifest.xml:43:9-48:79
+67            android:name="com.android.car.ui.core.SearchResultsProvider"
+67-->[com.android.car.ui:car-ui-lib:2.5.1] /Users/joseantonioliebanadelgado/.gradle/caches/transforms-3/4b36e0b5102aa552fca090dff4cffa3c/transformed/car-ui-lib-2.5.1/AndroidManifest.xml:44:13-73
+68            android:authorities="com.example.mangashelfv2.SearchResultsProvider"
+68-->[com.android.car.ui:car-ui-lib:2.5.1] /Users/joseantonioliebanadelgado/.gradle/caches/transforms-3/4b36e0b5102aa552fca090dff4cffa3c/transformed/car-ui-lib-2.5.1/AndroidManifest.xml:45:13-73
+69            android:exported="true"
+69-->[com.android.car.ui:car-ui-lib:2.5.1] /Users/joseantonioliebanadelgado/.gradle/caches/transforms-3/4b36e0b5102aa552fca090dff4cffa3c/transformed/car-ui-lib-2.5.1/AndroidManifest.xml:46:13-36
+70            android:process="@string/car_ui_installer_process_name"
+70-->[com.android.car.ui:car-ui-lib:2.5.1] /Users/joseantonioliebanadelgado/.gradle/caches/transforms-3/4b36e0b5102aa552fca090dff4cffa3c/transformed/car-ui-lib-2.5.1/AndroidManifest.xml:47:13-68
+71            android:readPermission="com.android.car.ui.READ_SEARCH_RESULTS" />
+71-->[com.android.car.ui:car-ui-lib:2.5.1] /Users/joseantonioliebanadelgado/.gradle/caches/transforms-3/4b36e0b5102aa552fca090dff4cffa3c/transformed/car-ui-lib-2.5.1/AndroidManifest.xml:48:13-76
+72        <provider
+72-->[androidx.emoji2:emoji2:1.2.0] /Users/joseantonioliebanadelgado/.gradle/caches/transforms-3/3ffd57255e6f9966dfb3d4f8b250b487/transformed/emoji2-1.2.0/AndroidManifest.xml:24:9-32:20
+73            android:name="androidx.startup.InitializationProvider"
+73-->[androidx.emoji2:emoji2:1.2.0] /Users/joseantonioliebanadelgado/.gradle/caches/transforms-3/3ffd57255e6f9966dfb3d4f8b250b487/transformed/emoji2-1.2.0/AndroidManifest.xml:25:13-67
+74            android:authorities="com.example.mangashelfv2.androidx-startup"
+74-->[androidx.emoji2:emoji2:1.2.0] /Users/joseantonioliebanadelgado/.gradle/caches/transforms-3/3ffd57255e6f9966dfb3d4f8b250b487/transformed/emoji2-1.2.0/AndroidManifest.xml:26:13-68
+75            android:exported="false" >
+75-->[androidx.emoji2:emoji2:1.2.0] /Users/joseantonioliebanadelgado/.gradle/caches/transforms-3/3ffd57255e6f9966dfb3d4f8b250b487/transformed/emoji2-1.2.0/AndroidManifest.xml:27:13-37
+76            <meta-data
+76-->[androidx.emoji2:emoji2:1.2.0] /Users/joseantonioliebanadelgado/.gradle/caches/transforms-3/3ffd57255e6f9966dfb3d4f8b250b487/transformed/emoji2-1.2.0/AndroidManifest.xml:29:13-31:52
+77                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+77-->[androidx.emoji2:emoji2:1.2.0] /Users/joseantonioliebanadelgado/.gradle/caches/transforms-3/3ffd57255e6f9966dfb3d4f8b250b487/transformed/emoji2-1.2.0/AndroidManifest.xml:30:17-75
+78                android:value="androidx.startup" />
+78-->[androidx.emoji2:emoji2:1.2.0] /Users/joseantonioliebanadelgado/.gradle/caches/transforms-3/3ffd57255e6f9966dfb3d4f8b250b487/transformed/emoji2-1.2.0/AndroidManifest.xml:31:17-49
+79            <meta-data
+79-->[androidx.lifecycle:lifecycle-process:2.6.0-alpha05] /Users/joseantonioliebanadelgado/.gradle/caches/transforms-3/bf7fde57c2017a68fae37a4a78d56328/transformed/lifecycle-process-2.6.0-alpha05/AndroidManifest.xml:29:13-31:52
+80                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+80-->[androidx.lifecycle:lifecycle-process:2.6.0-alpha05] /Users/joseantonioliebanadelgado/.gradle/caches/transforms-3/bf7fde57c2017a68fae37a4a78d56328/transformed/lifecycle-process-2.6.0-alpha05/AndroidManifest.xml:30:17-78
+81                android:value="androidx.startup" />
+81-->[androidx.lifecycle:lifecycle-process:2.6.0-alpha05] /Users/joseantonioliebanadelgado/.gradle/caches/transforms-3/bf7fde57c2017a68fae37a4a78d56328/transformed/lifecycle-process-2.6.0-alpha05/AndroidManifest.xml:31:17-49
+82        </provider>
+83
+84        <service
+84-->[androidx.room:room-runtime:2.5.0] /Users/joseantonioliebanadelgado/.gradle/caches/transforms-3/4b36215741194cc441a2e28891db976b/transformed/room-runtime-2.5.0/AndroidManifest.xml:24:9-28:63
+85            android:name="androidx.room.MultiInstanceInvalidationService"
+85-->[androidx.room:room-runtime:2.5.0] /Users/joseantonioliebanadelgado/.gradle/caches/transforms-3/4b36215741194cc441a2e28891db976b/transformed/room-runtime-2.5.0/AndroidManifest.xml:25:13-74
+86            android:directBootAware="true"
+86-->[androidx.room:room-runtime:2.5.0] /Users/joseantonioliebanadelgado/.gradle/caches/transforms-3/4b36215741194cc441a2e28891db976b/transformed/room-runtime-2.5.0/AndroidManifest.xml:26:13-43
+87            android:exported="false" />
+87-->[androidx.room:room-runtime:2.5.0] /Users/joseantonioliebanadelgado/.gradle/caches/transforms-3/4b36215741194cc441a2e28891db976b/transformed/room-runtime-2.5.0/AndroidManifest.xml:27:13-37
+88    </application>
+89
+90</manifest>

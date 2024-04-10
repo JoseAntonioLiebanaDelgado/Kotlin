@@ -1,0 +1,42 @@
+com.example.mangashelfv2.app-emoji2-views-helper-1.2.0-0 /Users/joseantonioliebanadelgado/.gradle/caches/transforms-3/040441c4f6b0a4fe05aeab3599f3b82f/transformed/emoji2-views-helper-1.2.0/res
+com.example.mangashelfv2.app-room-ktx-2.5.0-1 /Users/joseantonioliebanadelgado/.gradle/caches/transforms-3/0dc19e37e723eeeaab46a3f8d5ef75a8/transformed/room-ktx-2.5.0/res
+com.example.mangashelfv2.app-recyclerview-1.2.1-2 /Users/joseantonioliebanadelgado/.gradle/caches/transforms-3/0f4dec7f1e60f5b4006606960563e3b5/transformed/recyclerview-1.2.1/res
+com.example.mangashelfv2.app-lifecycle-runtime-2.6.0-alpha05-3 /Users/joseantonioliebanadelgado/.gradle/caches/transforms-3/1471be9ce1954d87cec807267338643b/transformed/lifecycle-runtime-2.6.0-alpha05/res
+com.example.mangashelfv2.app-circleimageview-3.1.0-4 /Users/joseantonioliebanadelgado/.gradle/caches/transforms-3/27f684150ae972c77267f8649b659eae/transformed/circleimageview-3.1.0/res
+com.example.mangashelfv2.app-lifecycle-livedata-2.6.0-alpha05-5 /Users/joseantonioliebanadelgado/.gradle/caches/transforms-3/39b15afceb0f8f608a42a5f083f2a6cd/transformed/lifecycle-livedata-2.6.0-alpha05/res
+com.example.mangashelfv2.app-emoji2-1.2.0-6 /Users/joseantonioliebanadelgado/.gradle/caches/transforms-3/3ffd57255e6f9966dfb3d4f8b250b487/transformed/emoji2-1.2.0/res
+com.example.mangashelfv2.app-startup-runtime-1.1.1-7 /Users/joseantonioliebanadelgado/.gradle/caches/transforms-3/404c5abac2f5aceef40f4cf146536d36/transformed/startup-runtime-1.1.1/res
+com.example.mangashelfv2.app-tracing-1.2.0-alpha01-8 /Users/joseantonioliebanadelgado/.gradle/caches/transforms-3/42505cd7afec51dce882dbf57989ca61/transformed/tracing-1.2.0-alpha01/res
+com.example.mangashelfv2.app-activity-1.6.0-9 /Users/joseantonioliebanadelgado/.gradle/caches/transforms-3/45643041bb75deea6d9bcb126ffce3a1/transformed/activity-1.6.0/res
+com.example.mangashelfv2.app-lifecycle-livedata-core-2.6.0-alpha05-10 /Users/joseantonioliebanadelgado/.gradle/caches/transforms-3/4ac50aa356b657d8a95eb20db3702812/transformed/lifecycle-livedata-core-2.6.0-alpha05/res
+com.example.mangashelfv2.app-room-runtime-2.5.0-11 /Users/joseantonioliebanadelgado/.gradle/caches/transforms-3/4b36215741194cc441a2e28891db976b/transformed/room-runtime-2.5.0/res
+com.example.mangashelfv2.app-car-ui-lib-2.5.1-12 /Users/joseantonioliebanadelgado/.gradle/caches/transforms-3/4b36e0b5102aa552fca090dff4cffa3c/transformed/car-ui-lib-2.5.1/res
+com.example.mangashelfv2.app-constraintlayout-2.1.4-13 /Users/joseantonioliebanadelgado/.gradle/caches/transforms-3/4dae1036e86902b2f055441e14dfca0a/transformed/constraintlayout-2.1.4/res
+com.example.mangashelfv2.app-core-ktx-1.9.0-14 /Users/joseantonioliebanadelgado/.gradle/caches/transforms-3/5491ac3847804173a46dcdec37a7c63f/transformed/core-ktx-1.9.0/res
+com.example.mangashelfv2.app-appcompat-1.6.1-15 /Users/joseantonioliebanadelgado/.gradle/caches/transforms-3/60c55cbef2e6cdef5b8f3b785c00f588/transformed/appcompat-1.6.1/res
+com.example.mangashelfv2.app-annotation-experimental-1.3.0-16 /Users/joseantonioliebanadelgado/.gradle/caches/transforms-3/70d510d1ea77f94adf002972dd3d1d16/transformed/annotation-experimental-1.3.0/res
+com.example.mangashelfv2.app-core-1.9.0-17 /Users/joseantonioliebanadelgado/.gradle/caches/transforms-3/738147d0f85917708540e295877f94a3/transformed/core-1.9.0/res
+com.example.mangashelfv2.app-lifecycle-viewmodel-2.6.0-alpha05-18 /Users/joseantonioliebanadelgado/.gradle/caches/transforms-3/79eb899defa054ea4d11c488b399d212/transformed/lifecycle-viewmodel-2.6.0-alpha05/res
+com.example.mangashelfv2.app-fragment-1.3.6-19 /Users/joseantonioliebanadelgado/.gradle/caches/transforms-3/872a6b8d5fdf7001b35089b05ea414ef/transformed/fragment-1.3.6/res
+com.example.mangashelfv2.app-glide-4.16.0-20 /Users/joseantonioliebanadelgado/.gradle/caches/transforms-3/8f0465b29d2f0923370331e0da968ab7/transformed/glide-4.16.0/res
+com.example.mangashelfv2.app-viewpager2-1.0.0-21 /Users/joseantonioliebanadelgado/.gradle/caches/transforms-3/99047600cbeb9b3ffb1220ce346acf38/transformed/viewpager2-1.0.0/res
+com.example.mangashelfv2.app-sqlite-2.3.0-22 /Users/joseantonioliebanadelgado/.gradle/caches/transforms-3/9f011913ca63436b19c891252248a929/transformed/sqlite-2.3.0/res
+com.example.mangashelfv2.app-cardview-1.0.0-23 /Users/joseantonioliebanadelgado/.gradle/caches/transforms-3/a89cefa91747914e015c9a64ed022f38/transformed/cardview-1.0.0/res
+com.example.mangashelfv2.app-lifecycle-viewmodel-savedstate-2.6.0-alpha05-24 /Users/joseantonioliebanadelgado/.gradle/caches/transforms-3/b003ed40ecaeb5b546f56d50cc741f34/transformed/lifecycle-viewmodel-savedstate-2.6.0-alpha05/res
+com.example.mangashelfv2.app-savedstate-1.2.0-25 /Users/joseantonioliebanadelgado/.gradle/caches/transforms-3/b9beffc118fc2e25670b21ca5c5ba5bd/transformed/savedstate-1.2.0/res
+com.example.mangashelfv2.app-transition-1.2.0-26 /Users/joseantonioliebanadelgado/.gradle/caches/transforms-3/bec8f97fd8c9b19e268c9617924fa7f8/transformed/transition-1.2.0/res
+com.example.mangashelfv2.app-lifecycle-process-2.6.0-alpha05-27 /Users/joseantonioliebanadelgado/.gradle/caches/transforms-3/bf7fde57c2017a68fae37a4a78d56328/transformed/lifecycle-process-2.6.0-alpha05/res
+com.example.mangashelfv2.app-core-runtime-2.2.0-beta01-28 /Users/joseantonioliebanadelgado/.gradle/caches/transforms-3/cfebade0e66749818c2fa352af78e635/transformed/core-runtime-2.2.0-beta01/res
+com.example.mangashelfv2.app-material-1.8.0-29 /Users/joseantonioliebanadelgado/.gradle/caches/transforms-3/d1a946309862eee9fde3d008abb10666/transformed/material-1.8.0/res
+com.example.mangashelfv2.app-coordinatorlayout-1.1.0-30 /Users/joseantonioliebanadelgado/.gradle/caches/transforms-3/d95da1194ffd2151a112bad77d42821b/transformed/coordinatorlayout-1.1.0/res
+com.example.mangashelfv2.app-drawerlayout-1.1.1-31 /Users/joseantonioliebanadelgado/.gradle/caches/transforms-3/e4beffb0de897e2df27746baefc47315/transformed/drawerlayout-1.1.1/res
+com.example.mangashelfv2.app-preference-1.1.1-32 /Users/joseantonioliebanadelgado/.gradle/caches/transforms-3/f155cdf6dc29c9955ede3113054bf870/transformed/preference-1.1.1/res
+com.example.mangashelfv2.app-appcompat-resources-1.6.1-33 /Users/joseantonioliebanadelgado/.gradle/caches/transforms-3/f26d7682e72985517502dd76f8307a8b/transformed/appcompat-resources-1.6.1/res
+com.example.mangashelfv2.app-sqlite-framework-2.3.0-34 /Users/joseantonioliebanadelgado/.gradle/caches/transforms-3/f731bd5b535709d3ee00e1f1fc46a37f/transformed/sqlite-framework-2.3.0/res
+com.example.mangashelfv2.app-pngs-35 /Users/joseantonioliebanadelgado/Documents/Developer/Kotlin/UF1/MangaShelf - JoseAntonioLiebana_AleixRoldan/MangaShelfV2/app/build/generated/res/pngs/debug
+com.example.mangashelfv2.app-resValues-36 /Users/joseantonioliebanadelgado/Documents/Developer/Kotlin/UF1/MangaShelf - JoseAntonioLiebana_AleixRoldan/MangaShelfV2/app/build/generated/res/resValues/debug
+com.example.mangashelfv2.app-packageDebugResources-37 /Users/joseantonioliebanadelgado/Documents/Developer/Kotlin/UF1/MangaShelf - JoseAntonioLiebana_AleixRoldan/MangaShelfV2/app/build/intermediates/incremental/debug/packageDebugResources/merged.dir
+com.example.mangashelfv2.app-packageDebugResources-38 /Users/joseantonioliebanadelgado/Documents/Developer/Kotlin/UF1/MangaShelf - JoseAntonioLiebana_AleixRoldan/MangaShelfV2/app/build/intermediates/incremental/debug/packageDebugResources/stripped.dir
+com.example.mangashelfv2.app-merged_res-39 /Users/joseantonioliebanadelgado/Documents/Developer/Kotlin/UF1/MangaShelf - JoseAntonioLiebana_AleixRoldan/MangaShelfV2/app/build/intermediates/merged_res/debug
+com.example.mangashelfv2.app-debug-40 /Users/joseantonioliebanadelgado/Documents/Developer/Kotlin/UF1/MangaShelf - JoseAntonioLiebana_AleixRoldan/MangaShelfV2/app/src/debug/res
+com.example.mangashelfv2.app-main-41 /Users/joseantonioliebanadelgado/Documents/Developer/Kotlin/UF1/MangaShelf - JoseAntonioLiebana_AleixRoldan/MangaShelfV2/app/src/main/res

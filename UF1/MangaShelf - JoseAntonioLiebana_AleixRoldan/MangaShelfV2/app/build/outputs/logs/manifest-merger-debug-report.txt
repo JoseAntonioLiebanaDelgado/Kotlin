@@ -1,0 +1,354 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/joseantonioliebanadelgado/Documents/Developer/Kotlin/UF1/MangaShelf - JoseAntonioLiebana_AleixRoldan/MangaShelfV2/app/src/main/AndroidManifest.xml:2:1-35:12
+INJECTED from /Users/joseantonioliebanadelgado/Documents/Developer/Kotlin/UF1/MangaShelf - JoseAntonioLiebana_AleixRoldan/MangaShelfV2/app/src/main/AndroidManifest.xml:2:1-35:12
+INJECTED from /Users/joseantonioliebanadelgado/Documents/Developer/Kotlin/UF1/MangaShelf - JoseAntonioLiebana_AleixRoldan/MangaShelfV2/app/src/main/AndroidManifest.xml:2:1-35:12
+INJECTED from /Users/joseantonioliebanadelgado/Documents/Developer/Kotlin/UF1/MangaShelf - JoseAntonioLiebana_AleixRoldan/MangaShelfV2/app/src/main/AndroidManifest.xml:2:1-35:12
+MERGED from [androidx.databinding:viewbinding:8.1.1] /Users/joseantonioliebanadelgado/.gradle/caches/transforms-3/f575a921f4883b7da1dfb68c88f72817/transformed/viewbinding-8.1.1/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.material:material:1.8.0] /Users/joseantonioliebanadelgado/.gradle/caches/transforms-3/d1a946309862eee9fde3d008abb10666/transformed/material-1.8.0/AndroidManifest.xml:17:1-26:12
+MERGED from [com.android.car.ui:car-ui-lib:2.5.1] /Users/joseantonioliebanadelgado/.gradle/caches/transforms-3/4b36e0b5102aa552fca090dff4cffa3c/transformed/car-ui-lib-2.5.1/AndroidManifest.xml:17:1-51:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/joseantonioliebanadelgado/.gradle/caches/transforms-3/4dae1036e86902b2f055441e14dfca0a/transformed/constraintlayout-2.1.4/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] /Users/joseantonioliebanadelgado/.gradle/caches/transforms-3/f26d7682e72985517502dd76f8307a8b/transformed/appcompat-resources-1.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.preference:preference:1.1.1] /Users/joseantonioliebanadelgado/.gradle/caches/transforms-3/f155cdf6dc29c9955ede3113054bf870/transformed/preference-1.1.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.6.1] /Users/joseantonioliebanadelgado/.gradle/caches/transforms-3/60c55cbef2e6cdef5b8f3b785c00f588/transformed/appcompat-1.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:glide:4.16.0] /Users/joseantonioliebanadelgado/.gradle/caches/transforms-3/8f0465b29d2f0923370331e0da968ab7/transformed/glide-4.16.0/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/joseantonioliebanadelgado/.gradle/caches/transforms-3/99047600cbeb9b3ffb1220ce346acf38/transformed/viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.3.6] /Users/joseantonioliebanadelgado/.gradle/caches/transforms-3/872a6b8d5fdf7001b35089b05ea414ef/transformed/fragment-1.3.6/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.6.0] /Users/joseantonioliebanadelgado/.gradle/caches/transforms-3/45643041bb75deea6d9bcb126ffce3a1/transformed/activity-1.6.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/joseantonioliebanadelgado/.gradle/caches/transforms-3/84a2604e4c81307dc51ebe0fb262299a/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/joseantonioliebanadelgado/.gradle/caches/transforms-3/d022fc8aef362448aa6e216a277a2ccd/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/joseantonioliebanadelgado/.gradle/caches/transforms-3/1c703cc4263082293ad4caaec8b57536/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.0-alpha05] /Users/joseantonioliebanadelgado/.gradle/caches/transforms-3/79eb899defa054ea4d11c488b399d212/transformed/lifecycle-viewmodel-2.6.0-alpha05/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.2.0] /Users/joseantonioliebanadelgado/.gradle/caches/transforms-3/b9beffc118fc2e25670b21ca5c5ba5bd/transformed/savedstate-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] /Users/joseantonioliebanadelgado/.gradle/caches/transforms-3/040441c4f6b0a4fe05aeab3599f3b82f/transformed/emoji2-views-helper-1.2.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.2.0] /Users/joseantonioliebanadelgado/.gradle/caches/transforms-3/3ffd57255e6f9966dfb3d4f8b250b487/transformed/emoji2-1.2.0/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.0-alpha05] /Users/joseantonioliebanadelgado/.gradle/caches/transforms-3/bf7fde57c2017a68fae37a4a78d56328/transformed/lifecycle-process-2.6.0-alpha05/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/joseantonioliebanadelgado/.gradle/caches/transforms-3/e4beffb0de897e2df27746baefc47315/transformed/drawerlayout-1.1.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/joseantonioliebanadelgado/.gradle/caches/transforms-3/d95da1194ffd2151a112bad77d42821b/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.2.0] /Users/joseantonioliebanadelgado/.gradle/caches/transforms-3/bec8f97fd8c9b19e268c9617924fa7f8/transformed/transition-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/joseantonioliebanadelgado/.gradle/caches/transforms-3/5df65c54e10663cbef46eedd9cd049f4/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/joseantonioliebanadelgado/.gradle/caches/transforms-3/4bc22ed06180c760672d102f62a46661/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.2.1] /Users/joseantonioliebanadelgado/.gradle/caches/transforms-3/0f4dec7f1e60f5b4006606960563e3b5/transformed/recyclerview-1.2.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/joseantonioliebanadelgado/.gradle/caches/transforms-3/8226f211753373937896b6db2b89e4f2/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.1.0] /Users/joseantonioliebanadelgado/.gradle/caches/transforms-3/0be8727bcc38f2239c2b80150a0554c4/transformed/customview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.9.0] /Users/joseantonioliebanadelgado/.gradle/caches/transforms-3/738147d0f85917708540e295877f94a3/transformed/core-1.9.0/AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.0-alpha05] /Users/joseantonioliebanadelgado/.gradle/caches/transforms-3/1471be9ce1954d87cec807267338643b/transformed/lifecycle-runtime-2.6.0-alpha05/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.0-alpha05] /Users/joseantonioliebanadelgado/.gradle/caches/transforms-3/39b15afceb0f8f608a42a5f083f2a6cd/transformed/lifecycle-livedata-2.6.0-alpha05/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.0-alpha05] /Users/joseantonioliebanadelgado/.gradle/caches/transforms-3/4ac50aa356b657d8a95eb20db3702812/transformed/lifecycle-livedata-core-2.6.0-alpha05/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.0-alpha05] /Users/joseantonioliebanadelgado/.gradle/caches/transforms-3/b003ed40ecaeb5b546f56d50cc741f34/transformed/lifecycle-viewmodel-savedstate-2.6.0-alpha05/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core-ktx:1.9.0] /Users/joseantonioliebanadelgado/.gradle/caches/transforms-3/5491ac3847804173a46dcdec37a7c63f/transformed/core-ktx-1.9.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/joseantonioliebanadelgado/.gradle/caches/transforms-3/404c5abac2f5aceef40f4cf146536d36/transformed/startup-runtime-1.1.1/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.2.0-alpha01] /Users/joseantonioliebanadelgado/.gradle/caches/transforms-3/42505cd7afec51dce882dbf57989ca61/transformed/tracing-1.2.0-alpha01/AndroidManifest.xml:17:1-22:12
+MERGED from [de.hdodenhof:circleimageview:3.1.0] /Users/joseantonioliebanadelgado/.gradle/caches/transforms-3/27f684150ae972c77267f8649b659eae/transformed/circleimageview-3.1.0/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.room:room-ktx:2.5.0] /Users/joseantonioliebanadelgado/.gradle/caches/transforms-3/0dc19e37e723eeeaab46a3f8d5ef75a8/transformed/room-ktx-2.5.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.room:room-runtime:2.5.0] /Users/joseantonioliebanadelgado/.gradle/caches/transforms-3/4b36215741194cc441a2e28891db976b/transformed/room-runtime-2.5.0/AndroidManifest.xml:17:1-31:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/joseantonioliebanadelgado/.gradle/caches/transforms-3/eacdf1c4799ec81e06c84cb95a87a530/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/joseantonioliebanadelgado/.gradle/caches/transforms-3/a89cefa91747914e015c9a64ed022f38/transformed/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite-framework:2.3.0] /Users/joseantonioliebanadelgado/.gradle/caches/transforms-3/f731bd5b535709d3ee00e1f1fc46a37f/transformed/sqlite-framework-2.3.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite:2.3.0] /Users/joseantonioliebanadelgado/.gradle/caches/transforms-3/9f011913ca63436b19c891252248a929/transformed/sqlite-2.3.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.16.0] /Users/joseantonioliebanadelgado/.gradle/caches/transforms-3/a91d7e4ca44129a303e42166d093d9c1/transformed/gifdecoder-4.16.0/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.exifinterface:exifinterface:1.3.6] /Users/joseantonioliebanadelgado/.gradle/caches/transforms-3/2aee04f1cd592e90f05315c619c9175a/transformed/exifinterface-1.3.6/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/joseantonioliebanadelgado/.gradle/caches/transforms-3/6e6d849a3ba8a9e54c13fc958700caef/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0-beta01] /Users/joseantonioliebanadelgado/.gradle/caches/transforms-3/cfebade0e66749818c2fa352af78e635/transformed/core-runtime-2.2.0-beta01/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/joseantonioliebanadelgado/.gradle/caches/transforms-3/6d73a454ba2274790dbaecfe40b75bde/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/joseantonioliebanadelgado/.gradle/caches/transforms-3/a1e1df16d0965c3ef0492422ee6c1cea/transformed/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/joseantonioliebanadelgado/.gradle/caches/transforms-3/a55e0b0a4f9e32212d2dc99ea8eea98d/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/joseantonioliebanadelgado/.gradle/caches/transforms-3/52ca530f493b0485ba315950c274bfaa/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] /Users/joseantonioliebanadelgado/.gradle/caches/transforms-3/70d510d1ea77f94adf002972dd3d1d16/transformed/annotation-experimental-1.3.0/AndroidManifest.xml:17:1-22:12
+	package
+		INJECTED from /Users/joseantonioliebanadelgado/Documents/Developer/Kotlin/UF1/MangaShelf - JoseAntonioLiebana_AleixRoldan/MangaShelfV2/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/joseantonioliebanadelgado/Documents/Developer/Kotlin/UF1/MangaShelf - JoseAntonioLiebana_AleixRoldan/MangaShelfV2/app/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/joseantonioliebanadelgado/Documents/Developer/Kotlin/UF1/MangaShelf - JoseAntonioLiebana_AleixRoldan/MangaShelfV2/app/src/main/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /Users/joseantonioliebanadelgado/Documents/Developer/Kotlin/UF1/MangaShelf - JoseAntonioLiebana_AleixRoldan/MangaShelfV2/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/joseantonioliebanadelgado/Documents/Developer/Kotlin/UF1/MangaShelf - JoseAntonioLiebana_AleixRoldan/MangaShelfV2/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/joseantonioliebanadelgado/Documents/Developer/Kotlin/UF1/MangaShelf - JoseAntonioLiebana_AleixRoldan/MangaShelfV2/app/src/main/AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from /Users/joseantonioliebanadelgado/Documents/Developer/Kotlin/UF1/MangaShelf - JoseAntonioLiebana_AleixRoldan/MangaShelfV2/app/src/main/AndroidManifest.xml:5:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/joseantonioliebanadelgado/Documents/Developer/Kotlin/UF1/MangaShelf - JoseAntonioLiebana_AleixRoldan/MangaShelfV2/app/src/main/AndroidManifest.xml:6:5-79
+	android:name
+		ADDED from /Users/joseantonioliebanadelgado/Documents/Developer/Kotlin/UF1/MangaShelf - JoseAntonioLiebana_AleixRoldan/MangaShelfV2/app/src/main/AndroidManifest.xml:6:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from /Users/joseantonioliebanadelgado/Documents/Developer/Kotlin/UF1/MangaShelf - JoseAntonioLiebana_AleixRoldan/MangaShelfV2/app/src/main/AndroidManifest.xml:7:5-76
+	android:name
+		ADDED from /Users/joseantonioliebanadelgado/Documents/Developer/Kotlin/UF1/MangaShelf - JoseAntonioLiebana_AleixRoldan/MangaShelfV2/app/src/main/AndroidManifest.xml:7:22-73
+application
+ADDED from /Users/joseantonioliebanadelgado/Documents/Developer/Kotlin/UF1/MangaShelf - JoseAntonioLiebana_AleixRoldan/MangaShelfV2/app/src/main/AndroidManifest.xml:9:5-33:19
+INJECTED from /Users/joseantonioliebanadelgado/Documents/Developer/Kotlin/UF1/MangaShelf - JoseAntonioLiebana_AleixRoldan/MangaShelfV2/app/src/main/AndroidManifest.xml:9:5-33:19
+MERGED from [com.google.android.material:material:1.8.0] /Users/joseantonioliebanadelgado/.gradle/caches/transforms-3/d1a946309862eee9fde3d008abb10666/transformed/material-1.8.0/AndroidManifest.xml:24:5-20
+MERGED from [com.google.android.material:material:1.8.0] /Users/joseantonioliebanadelgado/.gradle/caches/transforms-3/d1a946309862eee9fde3d008abb10666/transformed/material-1.8.0/AndroidManifest.xml:24:5-20
+MERGED from [com.android.car.ui:car-ui-lib:2.5.1] /Users/joseantonioliebanadelgado/.gradle/caches/transforms-3/4b36e0b5102aa552fca090dff4cffa3c/transformed/car-ui-lib-2.5.1/AndroidManifest.xml:36:5-49:19
+MERGED from [com.android.car.ui:car-ui-lib:2.5.1] /Users/joseantonioliebanadelgado/.gradle/caches/transforms-3/4b36e0b5102aa552fca090dff4cffa3c/transformed/car-ui-lib-2.5.1/AndroidManifest.xml:36:5-49:19
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/joseantonioliebanadelgado/.gradle/caches/transforms-3/4dae1036e86902b2f055441e14dfca0a/transformed/constraintlayout-2.1.4/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/joseantonioliebanadelgado/.gradle/caches/transforms-3/4dae1036e86902b2f055441e14dfca0a/transformed/constraintlayout-2.1.4/AndroidManifest.xml:9:5-20
+MERGED from [androidx.emoji2:emoji2:1.2.0] /Users/joseantonioliebanadelgado/.gradle/caches/transforms-3/3ffd57255e6f9966dfb3d4f8b250b487/transformed/emoji2-1.2.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.2.0] /Users/joseantonioliebanadelgado/.gradle/caches/transforms-3/3ffd57255e6f9966dfb3d4f8b250b487/transformed/emoji2-1.2.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.0-alpha05] /Users/joseantonioliebanadelgado/.gradle/caches/transforms-3/bf7fde57c2017a68fae37a4a78d56328/transformed/lifecycle-process-2.6.0-alpha05/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.0-alpha05] /Users/joseantonioliebanadelgado/.gradle/caches/transforms-3/bf7fde57c2017a68fae37a4a78d56328/transformed/lifecycle-process-2.6.0-alpha05/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.core:core:1.9.0] /Users/joseantonioliebanadelgado/.gradle/caches/transforms-3/738147d0f85917708540e295877f94a3/transformed/core-1.9.0/AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.9.0] /Users/joseantonioliebanadelgado/.gradle/caches/transforms-3/738147d0f85917708540e295877f94a3/transformed/core-1.9.0/AndroidManifest.xml:28:5-89
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/joseantonioliebanadelgado/.gradle/caches/transforms-3/404c5abac2f5aceef40f4cf146536d36/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/joseantonioliebanadelgado/.gradle/caches/transforms-3/404c5abac2f5aceef40f4cf146536d36/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+MERGED from [de.hdodenhof:circleimageview:3.1.0] /Users/joseantonioliebanadelgado/.gradle/caches/transforms-3/27f684150ae972c77267f8649b659eae/transformed/circleimageview-3.1.0/AndroidManifest.xml:9:5-20
+MERGED from [de.hdodenhof:circleimageview:3.1.0] /Users/joseantonioliebanadelgado/.gradle/caches/transforms-3/27f684150ae972c77267f8649b659eae/transformed/circleimageview-3.1.0/AndroidManifest.xml:9:5-20
+MERGED from [androidx.room:room-runtime:2.5.0] /Users/joseantonioliebanadelgado/.gradle/caches/transforms-3/4b36215741194cc441a2e28891db976b/transformed/room-runtime-2.5.0/AndroidManifest.xml:23:5-29:19
+MERGED from [androidx.room:room-runtime:2.5.0] /Users/joseantonioliebanadelgado/.gradle/caches/transforms-3/4b36215741194cc441a2e28891db976b/transformed/room-runtime-2.5.0/AndroidManifest.xml:23:5-29:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/joseantonioliebanadelgado/.gradle/caches/transforms-3/6e6d849a3ba8a9e54c13fc958700caef/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/joseantonioliebanadelgado/.gradle/caches/transforms-3/6e6d849a3ba8a9e54c13fc958700caef/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+	android:extractNativeLibs
+		INJECTED from /Users/joseantonioliebanadelgado/Documents/Developer/Kotlin/UF1/MangaShelf - JoseAntonioLiebana_AleixRoldan/MangaShelfV2/app/src/main/AndroidManifest.xml
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.9.0] /Users/joseantonioliebanadelgado/.gradle/caches/transforms-3/738147d0f85917708540e295877f94a3/transformed/core-1.9.0/AndroidManifest.xml:28:18-86
+	android:supportsRtl
+		ADDED from /Users/joseantonioliebanadelgado/Documents/Developer/Kotlin/UF1/MangaShelf - JoseAntonioLiebana_AleixRoldan/MangaShelfV2/app/src/main/AndroidManifest.xml:16:9-35
+	android:label
+		ADDED from /Users/joseantonioliebanadelgado/Documents/Developer/Kotlin/UF1/MangaShelf - JoseAntonioLiebana_AleixRoldan/MangaShelfV2/app/src/main/AndroidManifest.xml:14:9-41
+	android:fullBackupContent
+		ADDED from /Users/joseantonioliebanadelgado/Documents/Developer/Kotlin/UF1/MangaShelf - JoseAntonioLiebana_AleixRoldan/MangaShelfV2/app/src/main/AndroidManifest.xml:12:9-54
+	android:roundIcon
+		ADDED from /Users/joseantonioliebanadelgado/Documents/Developer/Kotlin/UF1/MangaShelf - JoseAntonioLiebana_AleixRoldan/MangaShelfV2/app/src/main/AndroidManifest.xml:15:9-54
+	tools:targetApi
+		ADDED from /Users/joseantonioliebanadelgado/Documents/Developer/Kotlin/UF1/MangaShelf - JoseAntonioLiebana_AleixRoldan/MangaShelfV2/app/src/main/AndroidManifest.xml:18:9-29
+	android:icon
+		ADDED from /Users/joseantonioliebanadelgado/Documents/Developer/Kotlin/UF1/MangaShelf - JoseAntonioLiebana_AleixRoldan/MangaShelfV2/app/src/main/AndroidManifest.xml:13:9-43
+	android:allowBackup
+		ADDED from /Users/joseantonioliebanadelgado/Documents/Developer/Kotlin/UF1/MangaShelf - JoseAntonioLiebana_AleixRoldan/MangaShelfV2/app/src/main/AndroidManifest.xml:10:9-35
+	android:theme
+		ADDED from /Users/joseantonioliebanadelgado/Documents/Developer/Kotlin/UF1/MangaShelf - JoseAntonioLiebana_AleixRoldan/MangaShelfV2/app/src/main/AndroidManifest.xml:17:9-55
+	android:dataExtractionRules
+		ADDED from /Users/joseantonioliebanadelgado/Documents/Developer/Kotlin/UF1/MangaShelf - JoseAntonioLiebana_AleixRoldan/MangaShelfV2/app/src/main/AndroidManifest.xml:11:9-65
+activity#com.example.mangashelfv2.GetById.DetallesByIdActivity
+ADDED from /Users/joseantonioliebanadelgado/Documents/Developer/Kotlin/UF1/MangaShelf - JoseAntonioLiebana_AleixRoldan/MangaShelfV2/app/src/main/AndroidManifest.xml:20:9-23:56
+	android:exported
+		ADDED from /Users/joseantonioliebanadelgado/Documents/Developer/Kotlin/UF1/MangaShelf - JoseAntonioLiebana_AleixRoldan/MangaShelfV2/app/src/main/AndroidManifest.xml:22:13-37
+	android:theme
+		ADDED from /Users/joseantonioliebanadelgado/Documents/Developer/Kotlin/UF1/MangaShelf - JoseAntonioLiebana_AleixRoldan/MangaShelfV2/app/src/main/AndroidManifest.xml:23:13-54
+	android:name
+		ADDED from /Users/joseantonioliebanadelgado/Documents/Developer/Kotlin/UF1/MangaShelf - JoseAntonioLiebana_AleixRoldan/MangaShelfV2/app/src/main/AndroidManifest.xml:21:13-57
+activity#com.example.mangashelfv2.MainActivity
+ADDED from /Users/joseantonioliebanadelgado/Documents/Developer/Kotlin/UF1/MangaShelf - JoseAntonioLiebana_AleixRoldan/MangaShelfV2/app/src/main/AndroidManifest.xml:24:9-32:20
+	android:exported
+		ADDED from /Users/joseantonioliebanadelgado/Documents/Developer/Kotlin/UF1/MangaShelf - JoseAntonioLiebana_AleixRoldan/MangaShelfV2/app/src/main/AndroidManifest.xml:26:13-36
+	android:name
+		ADDED from /Users/joseantonioliebanadelgado/Documents/Developer/Kotlin/UF1/MangaShelf - JoseAntonioLiebana_AleixRoldan/MangaShelfV2/app/src/main/AndroidManifest.xml:25:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/joseantonioliebanadelgado/Documents/Developer/Kotlin/UF1/MangaShelf - JoseAntonioLiebana_AleixRoldan/MangaShelfV2/app/src/main/AndroidManifest.xml:27:13-31:29
+action#android.intent.action.MAIN
+ADDED from /Users/joseantonioliebanadelgado/Documents/Developer/Kotlin/UF1/MangaShelf - JoseAntonioLiebana_AleixRoldan/MangaShelfV2/app/src/main/AndroidManifest.xml:28:17-69
+	android:name
+		ADDED from /Users/joseantonioliebanadelgado/Documents/Developer/Kotlin/UF1/MangaShelf - JoseAntonioLiebana_AleixRoldan/MangaShelfV2/app/src/main/AndroidManifest.xml:28:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/joseantonioliebanadelgado/Documents/Developer/Kotlin/UF1/MangaShelf - JoseAntonioLiebana_AleixRoldan/MangaShelfV2/app/src/main/AndroidManifest.xml:30:17-77
+	android:name
+		ADDED from /Users/joseantonioliebanadelgado/Documents/Developer/Kotlin/UF1/MangaShelf - JoseAntonioLiebana_AleixRoldan/MangaShelfV2/app/src/main/AndroidManifest.xml:30:27-74
+uses-sdk
+INJECTED from /Users/joseantonioliebanadelgado/Documents/Developer/Kotlin/UF1/MangaShelf - JoseAntonioLiebana_AleixRoldan/MangaShelfV2/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/joseantonioliebanadelgado/Documents/Developer/Kotlin/UF1/MangaShelf - JoseAntonioLiebana_AleixRoldan/MangaShelfV2/app/src/main/AndroidManifest.xml
+INJECTED from /Users/joseantonioliebanadelgado/Documents/Developer/Kotlin/UF1/MangaShelf - JoseAntonioLiebana_AleixRoldan/MangaShelfV2/app/src/main/AndroidManifest.xml
+MERGED from [androidx.databinding:viewbinding:8.1.1] /Users/joseantonioliebanadelgado/.gradle/caches/transforms-3/f575a921f4883b7da1dfb68c88f72817/transformed/viewbinding-8.1.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.databinding:viewbinding:8.1.1] /Users/joseantonioliebanadelgado/.gradle/caches/transforms-3/f575a921f4883b7da1dfb68c88f72817/transformed/viewbinding-8.1.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.material:material:1.8.0] /Users/joseantonioliebanadelgado/.gradle/caches/transforms-3/d1a946309862eee9fde3d008abb10666/transformed/material-1.8.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.8.0] /Users/joseantonioliebanadelgado/.gradle/caches/transforms-3/d1a946309862eee9fde3d008abb10666/transformed/material-1.8.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.android.car.ui:car-ui-lib:2.5.1] /Users/joseantonioliebanadelgado/.gradle/caches/transforms-3/4b36e0b5102aa552fca090dff4cffa3c/transformed/car-ui-lib-2.5.1/AndroidManifest.xml:21:5-44
+MERGED from [com.android.car.ui:car-ui-lib:2.5.1] /Users/joseantonioliebanadelgado/.gradle/caches/transforms-3/4b36e0b5102aa552fca090dff4cffa3c/transformed/car-ui-lib-2.5.1/AndroidManifest.xml:21:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/joseantonioliebanadelgado/.gradle/caches/transforms-3/4dae1036e86902b2f055441e14dfca0a/transformed/constraintlayout-2.1.4/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/joseantonioliebanadelgado/.gradle/caches/transforms-3/4dae1036e86902b2f055441e14dfca0a/transformed/constraintlayout-2.1.4/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] /Users/joseantonioliebanadelgado/.gradle/caches/transforms-3/f26d7682e72985517502dd76f8307a8b/transformed/appcompat-resources-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] /Users/joseantonioliebanadelgado/.gradle/caches/transforms-3/f26d7682e72985517502dd76f8307a8b/transformed/appcompat-resources-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.preference:preference:1.1.1] /Users/joseantonioliebanadelgado/.gradle/caches/transforms-3/f155cdf6dc29c9955ede3113054bf870/transformed/preference-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.preference:preference:1.1.1] /Users/joseantonioliebanadelgado/.gradle/caches/transforms-3/f155cdf6dc29c9955ede3113054bf870/transformed/preference-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.6.1] /Users/joseantonioliebanadelgado/.gradle/caches/transforms-3/60c55cbef2e6cdef5b8f3b785c00f588/transformed/appcompat-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.6.1] /Users/joseantonioliebanadelgado/.gradle/caches/transforms-3/60c55cbef2e6cdef5b8f3b785c00f588/transformed/appcompat-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:glide:4.16.0] /Users/joseantonioliebanadelgado/.gradle/caches/transforms-3/8f0465b29d2f0923370331e0da968ab7/transformed/glide-4.16.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:glide:4.16.0] /Users/joseantonioliebanadelgado/.gradle/caches/transforms-3/8f0465b29d2f0923370331e0da968ab7/transformed/glide-4.16.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/joseantonioliebanadelgado/.gradle/caches/transforms-3/99047600cbeb9b3ffb1220ce346acf38/transformed/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/joseantonioliebanadelgado/.gradle/caches/transforms-3/99047600cbeb9b3ffb1220ce346acf38/transformed/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] /Users/joseantonioliebanadelgado/.gradle/caches/transforms-3/872a6b8d5fdf7001b35089b05ea414ef/transformed/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] /Users/joseantonioliebanadelgado/.gradle/caches/transforms-3/872a6b8d5fdf7001b35089b05ea414ef/transformed/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.6.0] /Users/joseantonioliebanadelgado/.gradle/caches/transforms-3/45643041bb75deea6d9bcb126ffce3a1/transformed/activity-1.6.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.6.0] /Users/joseantonioliebanadelgado/.gradle/caches/transforms-3/45643041bb75deea6d9bcb126ffce3a1/transformed/activity-1.6.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/joseantonioliebanadelgado/.gradle/caches/transforms-3/84a2604e4c81307dc51ebe0fb262299a/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/joseantonioliebanadelgado/.gradle/caches/transforms-3/84a2604e4c81307dc51ebe0fb262299a/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/joseantonioliebanadelgado/.gradle/caches/transforms-3/d022fc8aef362448aa6e216a277a2ccd/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/joseantonioliebanadelgado/.gradle/caches/transforms-3/d022fc8aef362448aa6e216a277a2ccd/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/joseantonioliebanadelgado/.gradle/caches/transforms-3/1c703cc4263082293ad4caaec8b57536/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/joseantonioliebanadelgado/.gradle/caches/transforms-3/1c703cc4263082293ad4caaec8b57536/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.0-alpha05] /Users/joseantonioliebanadelgado/.gradle/caches/transforms-3/79eb899defa054ea4d11c488b399d212/transformed/lifecycle-viewmodel-2.6.0-alpha05/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.0-alpha05] /Users/joseantonioliebanadelgado/.gradle/caches/transforms-3/79eb899defa054ea4d11c488b399d212/transformed/lifecycle-viewmodel-2.6.0-alpha05/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.0] /Users/joseantonioliebanadelgado/.gradle/caches/transforms-3/b9beffc118fc2e25670b21ca5c5ba5bd/transformed/savedstate-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.2.0] /Users/joseantonioliebanadelgado/.gradle/caches/transforms-3/b9beffc118fc2e25670b21ca5c5ba5bd/transformed/savedstate-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] /Users/joseantonioliebanadelgado/.gradle/caches/transforms-3/040441c4f6b0a4fe05aeab3599f3b82f/transformed/emoji2-views-helper-1.2.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] /Users/joseantonioliebanadelgado/.gradle/caches/transforms-3/040441c4f6b0a4fe05aeab3599f3b82f/transformed/emoji2-views-helper-1.2.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] /Users/joseantonioliebanadelgado/.gradle/caches/transforms-3/3ffd57255e6f9966dfb3d4f8b250b487/transformed/emoji2-1.2.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] /Users/joseantonioliebanadelgado/.gradle/caches/transforms-3/3ffd57255e6f9966dfb3d4f8b250b487/transformed/emoji2-1.2.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.0-alpha05] /Users/joseantonioliebanadelgado/.gradle/caches/transforms-3/bf7fde57c2017a68fae37a4a78d56328/transformed/lifecycle-process-2.6.0-alpha05/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.0-alpha05] /Users/joseantonioliebanadelgado/.gradle/caches/transforms-3/bf7fde57c2017a68fae37a4a78d56328/transformed/lifecycle-process-2.6.0-alpha05/AndroidManifest.xml:21:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/joseantonioliebanadelgado/.gradle/caches/transforms-3/e4beffb0de897e2df27746baefc47315/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/joseantonioliebanadelgado/.gradle/caches/transforms-3/e4beffb0de897e2df27746baefc47315/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/joseantonioliebanadelgado/.gradle/caches/transforms-3/d95da1194ffd2151a112bad77d42821b/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/joseantonioliebanadelgado/.gradle/caches/transforms-3/d95da1194ffd2151a112bad77d42821b/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /Users/joseantonioliebanadelgado/.gradle/caches/transforms-3/bec8f97fd8c9b19e268c9617924fa7f8/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /Users/joseantonioliebanadelgado/.gradle/caches/transforms-3/bec8f97fd8c9b19e268c9617924fa7f8/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/joseantonioliebanadelgado/.gradle/caches/transforms-3/5df65c54e10663cbef46eedd9cd049f4/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/joseantonioliebanadelgado/.gradle/caches/transforms-3/5df65c54e10663cbef46eedd9cd049f4/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/joseantonioliebanadelgado/.gradle/caches/transforms-3/4bc22ed06180c760672d102f62a46661/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/joseantonioliebanadelgado/.gradle/caches/transforms-3/4bc22ed06180c760672d102f62a46661/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.2.1] /Users/joseantonioliebanadelgado/.gradle/caches/transforms-3/0f4dec7f1e60f5b4006606960563e3b5/transformed/recyclerview-1.2.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.2.1] /Users/joseantonioliebanadelgado/.gradle/caches/transforms-3/0f4dec7f1e60f5b4006606960563e3b5/transformed/recyclerview-1.2.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/joseantonioliebanadelgado/.gradle/caches/transforms-3/8226f211753373937896b6db2b89e4f2/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/joseantonioliebanadelgado/.gradle/caches/transforms-3/8226f211753373937896b6db2b89e4f2/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.1.0] /Users/joseantonioliebanadelgado/.gradle/caches/transforms-3/0be8727bcc38f2239c2b80150a0554c4/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] /Users/joseantonioliebanadelgado/.gradle/caches/transforms-3/0be8727bcc38f2239c2b80150a0554c4/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.9.0] /Users/joseantonioliebanadelgado/.gradle/caches/transforms-3/738147d0f85917708540e295877f94a3/transformed/core-1.9.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.9.0] /Users/joseantonioliebanadelgado/.gradle/caches/transforms-3/738147d0f85917708540e295877f94a3/transformed/core-1.9.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.0-alpha05] /Users/joseantonioliebanadelgado/.gradle/caches/transforms-3/1471be9ce1954d87cec807267338643b/transformed/lifecycle-runtime-2.6.0-alpha05/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.0-alpha05] /Users/joseantonioliebanadelgado/.gradle/caches/transforms-3/1471be9ce1954d87cec807267338643b/transformed/lifecycle-runtime-2.6.0-alpha05/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.0-alpha05] /Users/joseantonioliebanadelgado/.gradle/caches/transforms-3/39b15afceb0f8f608a42a5f083f2a6cd/transformed/lifecycle-livedata-2.6.0-alpha05/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.0-alpha05] /Users/joseantonioliebanadelgado/.gradle/caches/transforms-3/39b15afceb0f8f608a42a5f083f2a6cd/transformed/lifecycle-livedata-2.6.0-alpha05/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.0-alpha05] /Users/joseantonioliebanadelgado/.gradle/caches/transforms-3/4ac50aa356b657d8a95eb20db3702812/transformed/lifecycle-livedata-core-2.6.0-alpha05/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.0-alpha05] /Users/joseantonioliebanadelgado/.gradle/caches/transforms-3/4ac50aa356b657d8a95eb20db3702812/transformed/lifecycle-livedata-core-2.6.0-alpha05/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.0-alpha05] /Users/joseantonioliebanadelgado/.gradle/caches/transforms-3/b003ed40ecaeb5b546f56d50cc741f34/transformed/lifecycle-viewmodel-savedstate-2.6.0-alpha05/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.0-alpha05] /Users/joseantonioliebanadelgado/.gradle/caches/transforms-3/b003ed40ecaeb5b546f56d50cc741f34/transformed/lifecycle-viewmodel-savedstate-2.6.0-alpha05/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.9.0] /Users/joseantonioliebanadelgado/.gradle/caches/transforms-3/5491ac3847804173a46dcdec37a7c63f/transformed/core-ktx-1.9.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.9.0] /Users/joseantonioliebanadelgado/.gradle/caches/transforms-3/5491ac3847804173a46dcdec37a7c63f/transformed/core-ktx-1.9.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/joseantonioliebanadelgado/.gradle/caches/transforms-3/404c5abac2f5aceef40f4cf146536d36/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/joseantonioliebanadelgado/.gradle/caches/transforms-3/404c5abac2f5aceef40f4cf146536d36/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.2.0-alpha01] /Users/joseantonioliebanadelgado/.gradle/caches/transforms-3/42505cd7afec51dce882dbf57989ca61/transformed/tracing-1.2.0-alpha01/AndroidManifest.xml:20:5-44
+MERGED from [androidx.tracing:tracing:1.2.0-alpha01] /Users/joseantonioliebanadelgado/.gradle/caches/transforms-3/42505cd7afec51dce882dbf57989ca61/transformed/tracing-1.2.0-alpha01/AndroidManifest.xml:20:5-44
+MERGED from [de.hdodenhof:circleimageview:3.1.0] /Users/joseantonioliebanadelgado/.gradle/caches/transforms-3/27f684150ae972c77267f8649b659eae/transformed/circleimageview-3.1.0/AndroidManifest.xml:5:5-7:41
+MERGED from [de.hdodenhof:circleimageview:3.1.0] /Users/joseantonioliebanadelgado/.gradle/caches/transforms-3/27f684150ae972c77267f8649b659eae/transformed/circleimageview-3.1.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.room:room-ktx:2.5.0] /Users/joseantonioliebanadelgado/.gradle/caches/transforms-3/0dc19e37e723eeeaab46a3f8d5ef75a8/transformed/room-ktx-2.5.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.room:room-ktx:2.5.0] /Users/joseantonioliebanadelgado/.gradle/caches/transforms-3/0dc19e37e723eeeaab46a3f8d5ef75a8/transformed/room-ktx-2.5.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.room:room-runtime:2.5.0] /Users/joseantonioliebanadelgado/.gradle/caches/transforms-3/4b36215741194cc441a2e28891db976b/transformed/room-runtime-2.5.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.room:room-runtime:2.5.0] /Users/joseantonioliebanadelgado/.gradle/caches/transforms-3/4b36215741194cc441a2e28891db976b/transformed/room-runtime-2.5.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/joseantonioliebanadelgado/.gradle/caches/transforms-3/eacdf1c4799ec81e06c84cb95a87a530/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/joseantonioliebanadelgado/.gradle/caches/transforms-3/eacdf1c4799ec81e06c84cb95a87a530/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/joseantonioliebanadelgado/.gradle/caches/transforms-3/a89cefa91747914e015c9a64ed022f38/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/joseantonioliebanadelgado/.gradle/caches/transforms-3/a89cefa91747914e015c9a64ed022f38/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.3.0] /Users/joseantonioliebanadelgado/.gradle/caches/transforms-3/f731bd5b535709d3ee00e1f1fc46a37f/transformed/sqlite-framework-2.3.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.3.0] /Users/joseantonioliebanadelgado/.gradle/caches/transforms-3/f731bd5b535709d3ee00e1f1fc46a37f/transformed/sqlite-framework-2.3.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.3.0] /Users/joseantonioliebanadelgado/.gradle/caches/transforms-3/9f011913ca63436b19c891252248a929/transformed/sqlite-2.3.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.3.0] /Users/joseantonioliebanadelgado/.gradle/caches/transforms-3/9f011913ca63436b19c891252248a929/transformed/sqlite-2.3.0/AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:gifdecoder:4.16.0] /Users/joseantonioliebanadelgado/.gradle/caches/transforms-3/a91d7e4ca44129a303e42166d093d9c1/transformed/gifdecoder-4.16.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.16.0] /Users/joseantonioliebanadelgado/.gradle/caches/transforms-3/a91d7e4ca44129a303e42166d093d9c1/transformed/gifdecoder-4.16.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.6] /Users/joseantonioliebanadelgado/.gradle/caches/transforms-3/2aee04f1cd592e90f05315c619c9175a/transformed/exifinterface-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.6] /Users/joseantonioliebanadelgado/.gradle/caches/transforms-3/2aee04f1cd592e90f05315c619c9175a/transformed/exifinterface-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/joseantonioliebanadelgado/.gradle/caches/transforms-3/6e6d849a3ba8a9e54c13fc958700caef/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/joseantonioliebanadelgado/.gradle/caches/transforms-3/6e6d849a3ba8a9e54c13fc958700caef/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.2.0-beta01] /Users/joseantonioliebanadelgado/.gradle/caches/transforms-3/cfebade0e66749818c2fa352af78e635/transformed/core-runtime-2.2.0-beta01/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0-beta01] /Users/joseantonioliebanadelgado/.gradle/caches/transforms-3/cfebade0e66749818c2fa352af78e635/transformed/core-runtime-2.2.0-beta01/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/joseantonioliebanadelgado/.gradle/caches/transforms-3/6d73a454ba2274790dbaecfe40b75bde/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/joseantonioliebanadelgado/.gradle/caches/transforms-3/6d73a454ba2274790dbaecfe40b75bde/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/joseantonioliebanadelgado/.gradle/caches/transforms-3/a1e1df16d0965c3ef0492422ee6c1cea/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/joseantonioliebanadelgado/.gradle/caches/transforms-3/a1e1df16d0965c3ef0492422ee6c1cea/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/joseantonioliebanadelgado/.gradle/caches/transforms-3/a55e0b0a4f9e32212d2dc99ea8eea98d/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/joseantonioliebanadelgado/.gradle/caches/transforms-3/a55e0b0a4f9e32212d2dc99ea8eea98d/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/joseantonioliebanadelgado/.gradle/caches/transforms-3/52ca530f493b0485ba315950c274bfaa/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/joseantonioliebanadelgado/.gradle/caches/transforms-3/52ca530f493b0485ba315950c274bfaa/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] /Users/joseantonioliebanadelgado/.gradle/caches/transforms-3/70d510d1ea77f94adf002972dd3d1d16/transformed/annotation-experimental-1.3.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] /Users/joseantonioliebanadelgado/.gradle/caches/transforms-3/70d510d1ea77f94adf002972dd3d1d16/transformed/annotation-experimental-1.3.0/AndroidManifest.xml:20:5-44
+	android:targetSdkVersion
+		INJECTED from /Users/joseantonioliebanadelgado/Documents/Developer/Kotlin/UF1/MangaShelf - JoseAntonioLiebana_AleixRoldan/MangaShelfV2/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/joseantonioliebanadelgado/Documents/Developer/Kotlin/UF1/MangaShelf - JoseAntonioLiebana_AleixRoldan/MangaShelfV2/app/src/main/AndroidManifest.xml
+queries
+ADDED from [com.android.car.ui:car-ui-lib:2.5.1] /Users/joseantonioliebanadelgado/.gradle/caches/transforms-3/4b36e0b5102aa552fca090dff4cffa3c/transformed/car-ui-lib-2.5.1/AndroidManifest.xml:23:5-34:15
+intent#action:name:android.view.InputMethod
+ADDED from [com.android.car.ui:car-ui-lib:2.5.1] /Users/joseantonioliebanadelgado/.gradle/caches/transforms-3/4b36e0b5102aa552fca090dff4cffa3c/transformed/car-ui-lib-2.5.1/AndroidManifest.xml:26:9-28:18
+action#android.view.InputMethod
+ADDED from [com.android.car.ui:car-ui-lib:2.5.1] /Users/joseantonioliebanadelgado/.gradle/caches/transforms-3/4b36e0b5102aa552fca090dff4cffa3c/transformed/car-ui-lib-2.5.1/AndroidManifest.xml:27:13-63
+	android:name
+		ADDED from [com.android.car.ui:car-ui-lib:2.5.1] /Users/joseantonioliebanadelgado/.gradle/caches/transforms-3/4b36e0b5102aa552fca090dff4cffa3c/transformed/car-ui-lib-2.5.1/AndroidManifest.xml:27:21-60
+provider#com.android.car.ui.plugin.PluginNameProvider
+ADDED from [com.android.car.ui:car-ui-lib:2.5.1] /Users/joseantonioliebanadelgado/.gradle/caches/transforms-3/4b36e0b5102aa552fca090dff4cffa3c/transformed/car-ui-lib-2.5.1/AndroidManifest.xml:30:9-33:67
+	android:authorities
+		ADDED from [com.android.car.ui:car-ui-lib:2.5.1] /Users/joseantonioliebanadelgado/.gradle/caches/transforms-3/4b36e0b5102aa552fca090dff4cffa3c/transformed/car-ui-lib-2.5.1/AndroidManifest.xml:32:13-60
+	tools:ignore
+		ADDED from [com.android.car.ui:car-ui-lib:2.5.1] /Users/joseantonioliebanadelgado/.gradle/caches/transforms-3/4b36e0b5102aa552fca090dff4cffa3c/transformed/car-ui-lib-2.5.1/AndroidManifest.xml:33:13-64
+	android:name
+		ADDED from [com.android.car.ui:car-ui-lib:2.5.1] /Users/joseantonioliebanadelgado/.gradle/caches/transforms-3/4b36e0b5102aa552fca090dff4cffa3c/transformed/car-ui-lib-2.5.1/AndroidManifest.xml:31:13-72
+provider#com.android.car.ui.core.CarUiInstaller
+ADDED from [com.android.car.ui:car-ui-lib:2.5.1] /Users/joseantonioliebanadelgado/.gradle/caches/transforms-3/4b36e0b5102aa552fca090dff4cffa3c/transformed/car-ui-lib-2.5.1/AndroidManifest.xml:37:9-42:71
+	android:process
+		ADDED from [com.android.car.ui:car-ui-lib:2.5.1] /Users/joseantonioliebanadelgado/.gradle/caches/transforms-3/4b36e0b5102aa552fca090dff4cffa3c/transformed/car-ui-lib-2.5.1/AndroidManifest.xml:42:13-68
+	android:authorities
+		ADDED from [com.android.car.ui:car-ui-lib:2.5.1] /Users/joseantonioliebanadelgado/.gradle/caches/transforms-3/4b36e0b5102aa552fca090dff4cffa3c/transformed/car-ui-lib-2.5.1/AndroidManifest.xml:39:13-66
+	android:exported
+		ADDED from [com.android.car.ui:car-ui-lib:2.5.1] /Users/joseantonioliebanadelgado/.gradle/caches/transforms-3/4b36e0b5102aa552fca090dff4cffa3c/transformed/car-ui-lib-2.5.1/AndroidManifest.xml:41:13-37
+	android:directBootAware
+		ADDED from [com.android.car.ui:car-ui-lib:2.5.1] /Users/joseantonioliebanadelgado/.gradle/caches/transforms-3/4b36e0b5102aa552fca090dff4cffa3c/transformed/car-ui-lib-2.5.1/AndroidManifest.xml:40:13-43
+	android:name
+		ADDED from [com.android.car.ui:car-ui-lib:2.5.1] /Users/joseantonioliebanadelgado/.gradle/caches/transforms-3/4b36e0b5102aa552fca090dff4cffa3c/transformed/car-ui-lib-2.5.1/AndroidManifest.xml:38:13-66
+provider#com.android.car.ui.core.SearchResultsProvider
+ADDED from [com.android.car.ui:car-ui-lib:2.5.1] /Users/joseantonioliebanadelgado/.gradle/caches/transforms-3/4b36e0b5102aa552fca090dff4cffa3c/transformed/car-ui-lib-2.5.1/AndroidManifest.xml:43:9-48:79
+	android:readPermission
+		ADDED from [com.android.car.ui:car-ui-lib:2.5.1] /Users/joseantonioliebanadelgado/.gradle/caches/transforms-3/4b36e0b5102aa552fca090dff4cffa3c/transformed/car-ui-lib-2.5.1/AndroidManifest.xml:48:13-76
+	android:process
+		ADDED from [com.android.car.ui:car-ui-lib:2.5.1] /Users/joseantonioliebanadelgado/.gradle/caches/transforms-3/4b36e0b5102aa552fca090dff4cffa3c/transformed/car-ui-lib-2.5.1/AndroidManifest.xml:47:13-68
+	android:authorities
+		ADDED from [com.android.car.ui:car-ui-lib:2.5.1] /Users/joseantonioliebanadelgado/.gradle/caches/transforms-3/4b36e0b5102aa552fca090dff4cffa3c/transformed/car-ui-lib-2.5.1/AndroidManifest.xml:45:13-73
+	android:exported
+		ADDED from [com.android.car.ui:car-ui-lib:2.5.1] /Users/joseantonioliebanadelgado/.gradle/caches/transforms-3/4b36e0b5102aa552fca090dff4cffa3c/transformed/car-ui-lib-2.5.1/AndroidManifest.xml:46:13-36
+	android:name
+		ADDED from [com.android.car.ui:car-ui-lib:2.5.1] /Users/joseantonioliebanadelgado/.gradle/caches/transforms-3/4b36e0b5102aa552fca090dff4cffa3c/transformed/car-ui-lib-2.5.1/AndroidManifest.xml:44:13-73
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/joseantonioliebanadelgado/.gradle/caches/transforms-3/3ffd57255e6f9966dfb3d4f8b250b487/transformed/emoji2-1.2.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.0-alpha05] /Users/joseantonioliebanadelgado/.gradle/caches/transforms-3/bf7fde57c2017a68fae37a4a78d56328/transformed/lifecycle-process-2.6.0-alpha05/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.0-alpha05] /Users/joseantonioliebanadelgado/.gradle/caches/transforms-3/bf7fde57c2017a68fae37a4a78d56328/transformed/lifecycle-process-2.6.0-alpha05/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/joseantonioliebanadelgado/.gradle/caches/transforms-3/404c5abac2f5aceef40f4cf146536d36/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/joseantonioliebanadelgado/.gradle/caches/transforms-3/404c5abac2f5aceef40f4cf146536d36/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/joseantonioliebanadelgado/.gradle/caches/transforms-3/3ffd57255e6f9966dfb3d4f8b250b487/transformed/emoji2-1.2.0/AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/joseantonioliebanadelgado/.gradle/caches/transforms-3/3ffd57255e6f9966dfb3d4f8b250b487/transformed/emoji2-1.2.0/AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/joseantonioliebanadelgado/.gradle/caches/transforms-3/3ffd57255e6f9966dfb3d4f8b250b487/transformed/emoji2-1.2.0/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/joseantonioliebanadelgado/.gradle/caches/transforms-3/3ffd57255e6f9966dfb3d4f8b250b487/transformed/emoji2-1.2.0/AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/joseantonioliebanadelgado/.gradle/caches/transforms-3/3ffd57255e6f9966dfb3d4f8b250b487/transformed/emoji2-1.2.0/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/joseantonioliebanadelgado/.gradle/caches/transforms-3/3ffd57255e6f9966dfb3d4f8b250b487/transformed/emoji2-1.2.0/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/joseantonioliebanadelgado/.gradle/caches/transforms-3/3ffd57255e6f9966dfb3d4f8b250b487/transformed/emoji2-1.2.0/AndroidManifest.xml:30:17-75
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.6.0-alpha05] /Users/joseantonioliebanadelgado/.gradle/caches/transforms-3/bf7fde57c2017a68fae37a4a78d56328/transformed/lifecycle-process-2.6.0-alpha05/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.0-alpha05] /Users/joseantonioliebanadelgado/.gradle/caches/transforms-3/bf7fde57c2017a68fae37a4a78d56328/transformed/lifecycle-process-2.6.0-alpha05/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.0-alpha05] /Users/joseantonioliebanadelgado/.gradle/caches/transforms-3/bf7fde57c2017a68fae37a4a78d56328/transformed/lifecycle-process-2.6.0-alpha05/AndroidManifest.xml:30:17-78
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] /Users/joseantonioliebanadelgado/.gradle/caches/transforms-3/738147d0f85917708540e295877f94a3/transformed/core-1.9.0/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.9.0] /Users/joseantonioliebanadelgado/.gradle/caches/transforms-3/738147d0f85917708540e295877f94a3/transformed/core-1.9.0/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.9.0] /Users/joseantonioliebanadelgado/.gradle/caches/transforms-3/738147d0f85917708540e295877f94a3/transformed/core-1.9.0/AndroidManifest.xml:23:9-81
+permission#com.example.mangashelfv2.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] /Users/joseantonioliebanadelgado/.gradle/caches/transforms-3/738147d0f85917708540e295877f94a3/transformed/core-1.9.0/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.9.0] /Users/joseantonioliebanadelgado/.gradle/caches/transforms-3/738147d0f85917708540e295877f94a3/transformed/core-1.9.0/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.9.0] /Users/joseantonioliebanadelgado/.gradle/caches/transforms-3/738147d0f85917708540e295877f94a3/transformed/core-1.9.0/AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] /Users/joseantonioliebanadelgado/.gradle/caches/transforms-3/738147d0f85917708540e295877f94a3/transformed/core-1.9.0/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.9.0] /Users/joseantonioliebanadelgado/.gradle/caches/transforms-3/738147d0f85917708540e295877f94a3/transformed/core-1.9.0/AndroidManifest.xml:26:22-94
+uses-permission#com.example.mangashelfv2.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] /Users/joseantonioliebanadelgado/.gradle/caches/transforms-3/738147d0f85917708540e295877f94a3/transformed/core-1.9.0/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.9.0] /Users/joseantonioliebanadelgado/.gradle/caches/transforms-3/738147d0f85917708540e295877f94a3/transformed/core-1.9.0/AndroidManifest.xml:26:22-94
+service#androidx.room.MultiInstanceInvalidationService
+ADDED from [androidx.room:room-runtime:2.5.0] /Users/joseantonioliebanadelgado/.gradle/caches/transforms-3/4b36215741194cc441a2e28891db976b/transformed/room-runtime-2.5.0/AndroidManifest.xml:24:9-28:63
+	android:exported
+		ADDED from [androidx.room:room-runtime:2.5.0] /Users/joseantonioliebanadelgado/.gradle/caches/transforms-3/4b36215741194cc441a2e28891db976b/transformed/room-runtime-2.5.0/AndroidManifest.xml:27:13-37
+	tools:ignore
+		ADDED from [androidx.room:room-runtime:2.5.0] /Users/joseantonioliebanadelgado/.gradle/caches/transforms-3/4b36215741194cc441a2e28891db976b/transformed/room-runtime-2.5.0/AndroidManifest.xml:28:13-60
+	android:directBootAware
+		ADDED from [androidx.room:room-runtime:2.5.0] /Users/joseantonioliebanadelgado/.gradle/caches/transforms-3/4b36215741194cc441a2e28891db976b/transformed/room-runtime-2.5.0/AndroidManifest.xml:26:13-43
+	android:name
+		ADDED from [androidx.room:room-runtime:2.5.0] /Users/joseantonioliebanadelgado/.gradle/caches/transforms-3/4b36215741194cc441a2e28891db976b/transformed/room-runtime-2.5.0/AndroidManifest.xml:25:13-74

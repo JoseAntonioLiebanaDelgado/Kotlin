@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "com.example.mangashelfv2.app-mergeDebugResources-38:/layout/detalle_layout.xml",
+        "source": "com.example.mangashelfv2.app-main-41:/layout/detalle_layout.xml"
+    },
+    {
+        "merged": "com.example.mangashelfv2.app-mergeDebugResources-38:/layout/detalles_activity.xml",
+        "source": "com.example.mangashelfv2.app-main-41:/layout/detalles_activity.xml"
+    },
+    {
+        "merged": "com.example.mangashelfv2.app-mergeDebugResources-38:/layout/activity_manga.xml",
+        "source": "com.example.mangashelfv2.app-main-41:/layout/activity_manga.xml"
+    },
+    {
+        "merged": "com.example.mangashelfv2.app-mergeDebugResources-38:/layout/json_layout.xml",
+        "source": "com.example.mangashelfv2.app-main-41:/layout/json_layout.xml"
+    },
+    {
+        "merged": "com.example.mangashelfv2.app-mergeDebugResources-38:/layout/activity_manga_by_id.xml",
+        "source": "com.example.mangashelfv2.app-main-41:/layout/activity_manga_by_id.xml"
+    }
+]
