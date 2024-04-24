@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Espresso_Testing1</string>
+    <string name="name">Name</string>
+    <string name="reset">Reset</string>
+</resources>

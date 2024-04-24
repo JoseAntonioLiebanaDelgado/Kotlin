@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Espresso_Testing2</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="username">Username</string>
+    <string name="welcome_text">Welcome Text</string>
+</resources>
