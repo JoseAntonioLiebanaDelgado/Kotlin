@@ -5,6 +5,22 @@
       <entry key="Test0_AllTestsSuite">
         <State />
       </entry>
+      <entry key="Test1_NavigationTest">
+        <State>
+          <targetSelectedWithDropDown>
+            <Target>
+              <type value="QUICK_BOOT_TARGET" />
+              <deviceKey>
+                <Key>
+                  <type value="VIRTUAL_DEVICE_PATH" />
+                  <value value="$USER_HOME$/.android/avd/Pixel_7_API_34.avd" />
+                </Key>
+              </deviceKey>
+            </Target>
+          </targetSelectedWithDropDown>
+          <timeTargetWasSelectedWithDropDown value="2024-05-01T15:39:24.921296Z" />
+        </State>
+      </entry>
       <entry key="Test2_ElementsPositionTest">
         <State>
           <targetSelectedWithDropDown>
@@ -19,22 +35,6 @@
             </Target>
           </targetSelectedWithDropDown>
           <timeTargetWasSelectedWithDropDown value="2024-04-30T18:08:12.496058Z" />
-        </State>
-      </entry>
-      <entry key="Test2_ElementsPositionTest$ElementsPositionTest">
-        <State>
-          <targetSelectedWithDropDown>
-            <Target>
-              <type value="QUICK_BOOT_TARGET" />
-              <deviceKey>
-                <Key>
-                  <type value="VIRTUAL_DEVICE_PATH" />
-                  <value value="$USER_HOME$/.android/avd/Pixel_7_API_34.avd" />
-                </Key>
-              </deviceKey>
-            </Target>
-          </targetSelectedWithDropDown>
-          <timeTargetWasSelectedWithDropDown value="2024-04-30T17:48:13.623992Z" />
         </State>
       </entry>
       <entry key="Test3_CommonIntentTest">

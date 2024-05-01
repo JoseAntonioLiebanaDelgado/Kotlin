@@ -18,7 +18,7 @@ class Test1_NavigationTest {
     @get:Rule
     val activityRule = ActivityScenarioRule(MainActivity::class.java)
 
-
+    // Verifica que la navegación a DetallesByIdActivity sea exitosa al introducir un ID válido
     @Test
     fun testNavigationToDetailsById() {
         // Introducir un ID en el EditText
@@ -29,6 +29,7 @@ class Test1_NavigationTest {
         onView(withId(R.id.detallesHeadingView)).check(matches(isDisplayed()))
     }
 
+    // Verifica que no se realiza la navegación si el campo ID está vacío
     @Test
     fun testNoNavigationIfIdIsEmpty() {
         // Dejar el EditText vacío
@@ -38,12 +39,13 @@ class Test1_NavigationTest {
         onView(withId(R.id.btnId)).check(matches(isDisplayed())) // Se comprueba que el EditText sigue presente
     }
 
-    /*@Test
-    fun testToastAppearsIfIdIsEmpty() {
-        // Intentamos navegar sin introducir un ID
-        onView(withId(R.id.btnId)).perform(click())
+    // // Verifica que aparece un Toast con un mensaje de error si no se ha introducido un ID
+    // @Test
+    // fun testToastAppearsIfIdIsEmpty() {
+    //     // Intentamos navegar sin introducir un ID
+    //     onView(withId(R.id.btnId)).perform(click())
 
-        // Verificar que el Toast con el mensaje correcto se muestra
-        onView(withText("No se ha añadido ningún ID de manga")).check(matches(isDisplayed()))
-    }*/
+    //     // Verificar que el Toast con el mensaje correcto se muestra
+    //     onView(withText("No se ha añadido ningún ID de manga")).check(matches(isDisplayed()))
+    // }
 }

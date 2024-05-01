@@ -21,6 +21,9 @@ class Test3_CommonIntentTest {
     @get:Rule
     val intentsTestRule = IntentsTestRule(DetallesByIdActivity::class.java, true, false)
 
+    // Este test verifica que el Intent para comprar manga funciona correctamente.
+    // Prepara el Intent con un ID de manga válido, lanza la actividad y simula un clic en el botón de comprar manga.
+    // Luego verifica que el Intent correcto (con acción VIEW y la URL correcta) se haya lanzado.
     @Test
     fun testBuyMangaIntent() {
         // Preparar el Intent con datos necesarios si fuera el caso
