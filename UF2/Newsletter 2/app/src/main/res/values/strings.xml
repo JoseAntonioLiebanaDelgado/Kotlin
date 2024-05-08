@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Newsletter</string>
+    <string name="subscribe_newsletter">Subscribe to our monthly newsletter</string>
+    <string name="nombre">name</string>
+    <string name="registro">Subscribe</string>
+    <string name="frase_larga">%1$s, thank you for joining Newsletter. You will get our monthly newsletter at %2$s.</string>
+    <string name="frase_corta">%1$s, thank you for joining Newsletter.</string>
+    <string name="error">Name and email are required</string>
+    <string name="textViewHelp"><u>Need help?</u></string>
+    <string name="URL_HELP">https://newsletterguide.com</string>
+    <string name="email">email</string>
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Newsletter</string>
+    <string name="subscribe_newsletter">Subscríbete a nuestro newsletter mensual.</string>
+    <string name="nombre">nombre</string>
+    <string name="registro">Registro</string>
+    <string name="frase_larga">%1$s, gracias por unirte al Newsletter. Recibirás nuestra newsletter mensual en %2$s.</string>
+    <string name="frase_corta">%1$s, gracias por unirte al Newsletter.</string>
+    <string name="error">El nombre y el email son obligatorios</string>
+    <string name="textViewHelp"><u>Necesita ayuda?</u></string>
+    <string name="URL_HELP">https://newsletterguide.com</string>
+    <string name="email">email</string>
+</resources>
+
